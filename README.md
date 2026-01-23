@@ -17,6 +17,57 @@ The project delivers a **centralized BI system** that integrates **nine datasets
 
 ---
 
+## 🚀 Key Business Metrics
+- **Total Revenue:** 13.59M  
+- **Total Orders:** 99.44K  
+- **Delivery Performance:** Delayed vs On-Time orders  
+- **Customer Satisfaction:** Rating distribution  
+- **Sales Trends:** Monthly, Quarterly & Year-wise
+
+---
+
+## 🖥️ Dashboard Screenshots
+
+### 🔹 Dashboard Overview
+<p align="center">
+  <img src="images/dashboard-overview.png" width="900"/>
+</p>
+
+**Insights Covered:**
+- Top 10 product categories by sales  
+- Monthly delivery performance trends  
+- Delayed orders analysis (category-wise)  
+- Customer payment method distribution  
+
+---
+
+### 🔹 Order-Level Delivery Details
+<p align="center">
+  <img src="images/order-level-details.png" width="900"/>
+</p>
+
+**Insights Covered:**
+- Order-wise delivery tracking  
+- Estimated vs actual delivery dates  
+- Delay identification at transaction level  
+- Revenue contribution per order  
+
+---
+
+### 🔹 Trend & Performance Analysis
+<p align="center">
+  <img src="images/trend-analysis.png" width="900"/>
+</p>
+
+**Insights Covered:**
+- Rating distribution analysis  
+- Seasonal / quarterly sales patterns  
+- State-wise sales performance  
+- Revenue growth (year-wise)  
+
+---
+
+
 ## 🛠️ Skills & Tools Used
 
 - 📊 **Power BI**
@@ -74,11 +125,11 @@ The project delivers a **centralized BI system** that integrates **nine datasets
 
 ---
 
-### 5️⃣ Product Rating Analysis
+### 5️⃣ Rating Distribution Analysis
 - Identified:
-  - ⭐ Top 10 highest-rated products
-  - ⚠️ Bottom 10 lowest-rated products
-- Represented using bar and column charts
+  - ⭐ Analyzed customer satisfaction at the order level, as reviews were captured per order rather than per product.
+  - ⚠️ Visualized the distribution of ratings to understand how customers rated their purchase experience overall.
+- Represented using Clustered Column Chart
 
 ---
 
